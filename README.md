@@ -6,6 +6,10 @@
 <br><br>
 🇧🇷 - Para download das EFIs BASEs, é necessário você ser membro de qualquer categoria no canal do YouTube e conectar seu Discord à sua conta YouTube para acesso à sala `#efi-base`;
 
+![youtube_connection](https://github.com/luchina-gabriel/BASE-EFI-INTEL-HEDT-3RDGEN-X79-IVY-BRIDGE-E-PUBLIC/assets/23700365/63858ac6-8396-407e-be10-959e7ac500cc)
+<br>
+![efi-base-channel](https://github.com/luchina-gabriel/BASE-EFI-INTEL-HEDT-3RDGEN-X79-IVY-BRIDGE-E-PUBLIC/assets/23700365/ed7c773d-7b5a-4ffb-895c-788097281fa0)
+
 # Basic Info
 
 Note|Description
