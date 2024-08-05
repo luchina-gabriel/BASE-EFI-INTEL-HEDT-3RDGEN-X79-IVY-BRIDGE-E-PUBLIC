@@ -164,11 +164,6 @@ MacPro6,1|Works for Ivy Bridge-E Processors
 
 \* *Without above settings, macOS will not be able to boot.*
 
-# macOS Sonoma 14.4 or above versions (including macOS Sequoia (v15))
-- Please configure `SecureBootModel` to `Disabled`;
-- After the installation is completed, you can return the value to 'Default';
-- If the above adjustment is not performed, the installation will be in a looping.
-
 # Special notes
 
 - USB port mapping is **REQUIRED**.
