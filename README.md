@@ -25,8 +25,8 @@ Note|Description
 Initial macOS Support|OS X 10.9, Mavericks.
 Last Supported OS|macOS 12 Monterey.
 
-- Opencore version: 1.0.2
-- Release date: 08/10/2024
+- Opencore version: 1.0.3
+- Release date: 03/12/2024
 
 # Basic Steps
 
